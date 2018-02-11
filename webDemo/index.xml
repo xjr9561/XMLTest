@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+<!-- Edited by XMLSpy® -->
+<root>
+	<child>
+		<subchild>.....</subchild>
+	</child>
+	<note>
+		<name>john</name>
+		<age>17</age>
+		<body>我叫John，今年17岁!</body>
+	</note>
+	<message>
+		<test>小于号&lt;</test>
+		<test>大于号&gt;</test>
+		<test>与符号&amp;</test>
+		<test>单引号&apos;</test>
+		<test>双引号&quot;</test>
+	</message>
+	<bookstore>
+		<book category="CHILDREN">
+			<title>Harry Potter</title>
+			<author>J K. Rowling</author>
+			<year>2005</year>
+			<price>29.99</price>
+		</book>
+		<book category="WEB">
+			<title>Learning XML</title>
+			<author>Erik T. Ray</author>
+			<year>2003</year>
+			<price>39.95</price>
+		</book>
+	</bookstore>
+</root>
